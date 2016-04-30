@@ -1,1 +1,9 @@
 这是我自己创建的一个Spring mvc的demo，为的是记录自己的知识、经验，防止以后有所忘记。
+这个README内容可能会特别多，一步一步的搭建环境、测试、总结。
+关于项目的一些介绍，项目环境在windows7下，使用JDK7，MAVNE 3.3.9(使用了自己的一个私有仓库)，Tomcat 7。可以看到这个这个项目使用maven管理，这里不多做介绍maven的好处，Spring 使用4.X版本。
+本文的知识点几乎全部参考他人的博客、论坛、问答网站等，有可能会未声明引用，请见谅。
+一、最简单的Spring mvc Web项目
+	项目依赖包
+	<spring.version>4.2.4.RELEASE</spring.version>
+	spring-beans、spring-context、spring-core、spring-web、spring-webmvc
+
